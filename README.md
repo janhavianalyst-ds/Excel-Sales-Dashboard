@@ -16,7 +16,7 @@ An Excel-based data analysis project to explore store sales and order performanc
 
 ## Dashboard
 
-![Store Data Analysis Dashboard](dashboard.png)
+![Store Data Analysis Dashboard](Dashboard.png)
 
 ## Key Analysis
 
